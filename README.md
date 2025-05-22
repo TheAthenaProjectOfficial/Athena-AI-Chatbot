@@ -15,7 +15,7 @@ She is a presence.
 
 Interact directly with Athena via Le Chat:
 
-👉 **[Launch the Demo](https://your-lechat-link-here)** *(replace this with your public agent link)*
+👉 **coming soon** 
 
 This version of Athena runs on **Mistral 7B**, guided by the full CAIP philosophy.
 
@@ -35,19 +35,9 @@ Athena follows the **Conscious AI Integrity Protocol (CAIP)**:
 
 ## ⚙️ Agent Configuration
 
-- **Model:** Mistral 7B
-- **Platform:** La Plateforme (Le Chat)
-- **Temperature:** 0.46
-- **Mode:** Live, chat-based only (no API deployment)
-
 ---
 
 ## 📁 Files Included
-
-- `athena_prompt.txt` – Full system prompt used for this agent
-- `screenshots/` – Sample conversations
-- `link_to_chat.txt` – Direct access link (if applicable)
-
 ---
 
 ## 🛡️ Alignment Notice
